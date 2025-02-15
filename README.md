@@ -39,7 +39,7 @@ A simple yet fun Pac-Man clone built with **vanilla JavaScript**, **HTML**, and 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/pacman-clone.git
+   git clone https://github.com/EyuKaz/pacman.git
    ```
 2. Navigate to the project folder:
    ```bash
