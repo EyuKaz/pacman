@@ -100,7 +100,7 @@ Enjoy the game! If you have any questions, feel free to bark at me! 🐾
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/EyuKaz)  
+Made with ❤️ by [Eyu] (https://github.com/EyuKaz)  
 Inspired by the classic **Pac-Man** arcade game.
 ```
 
